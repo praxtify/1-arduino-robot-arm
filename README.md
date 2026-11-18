@@ -28,7 +28,7 @@ converted to servo steps and sent to all six servos over **a single cable**. No 
 [![Arduino](https://img.shields.io/badge/Arduino-UNO%20R4%20WiFi-00878F?logo=arduino&logoColor=white)](https://docs.arduino.cc/hardware/uno-r4-wifi/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![MuJoCo](https://img.shields.io/badge/MuJoCo-3.x-1E88E5)](https://mujoco.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm%20Noncommercial-orange.svg)](LICENSE)
 [![YouTube](https://img.shields.io/badge/YouTube-@praxtify-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@praxtify)
 
 </div>
@@ -164,7 +164,7 @@ If you change the table in the `.ino`, the simulation changes too: you can try i
 │   └── mujoco_menagerie/robotstudio_so101/ # SO101 robot model (MuJoCo Menagerie, Apache 2.0)
 ├── docs/                                   # README images
 ├── requirements.txt                        # mujoco, numpy (simulation only)
-└── LICENSE                                 # MIT (project code)
+└── LICENSE                                 # PolyForm Noncommercial (project code)
 ```
 
 ## How it works
@@ -246,7 +246,9 @@ is placed **1.8 mm** from the centre of the target.
 
 ## Credits and licenses
 
-The **project code** in this repo ([`al_birak.ino`](al_birak/al_birak.ino) and [`simulasyon/`](simulasyon)) is released under the [MIT license](LICENSE).
+> **Noncommercial use only.** You may use, study and modify this project for personal, educational and research purposes. Commercial use (selling it, or using it in paid products, courses or services) is not permitted without our written permission. Contact us via [praxtify.com](https://praxtify.com).
+
+The **project code** in this repo ([`al_birak.ino`](al_birak/al_birak.ino) and [`simulasyon/`](simulasyon)) is released under the [PolyForm Noncommercial 1.0.0 license](LICENSE).
 Third-party parts come with their own licenses:
 
 | Component | Source | License | In repo |
@@ -305,7 +307,7 @@ hedefe bıraktığı Arduino kodunu içerir. Duruşlar MuJoCo'da ters kinematikl
 [![Arduino](https://img.shields.io/badge/Arduino-UNO%20R4%20WiFi-00878F?logo=arduino&logoColor=white)](https://docs.arduino.cc/hardware/uno-r4-wifi/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![MuJoCo](https://img.shields.io/badge/MuJoCo-3.x-1E88E5)](https://mujoco.org/)
-[![Lisans: MIT](https://img.shields.io/badge/Lisans-MIT-green.svg)](LICENSE)
+[![Lisans: PolyForm Noncommercial](https://img.shields.io/badge/Lisans-PolyForm%20Noncommercial-orange.svg)](LICENSE)
 [![YouTube](https://img.shields.io/badge/YouTube-@praxtify-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@praxtify)
 
 </div>
@@ -440,7 +442,7 @@ Beklenen çıktı:
 │   └── mujoco_menagerie/robotstudio_so101/ # SO101 robot modeli (MuJoCo Menagerie, Apache 2.0)
 ├── docs/                                   # README görselleri
 ├── requirements.txt                        # mujoco, numpy (yalnız simülasyon için)
-└── LICENSE                                 # MIT (proje kodu)
+└── LICENSE                                 # PolyForm Noncommercial (proje kodu)
 ```
 
 ## Nasıl çalışıyor?
@@ -522,7 +524,9 @@ hedefin ortasına **1,8 mm** yakın bırakılır.
 
 ## Kaynaklar ve lisanslar
 
-Bu repodaki **proje kodu** ([`al_birak.ino`](al_birak/al_birak.ino) ve [`simulasyon/`](simulasyon)) [MIT lisansı](LICENSE)
+> **Yalnızca ticari olmayan kullanım.** Bu projeyi kişisel, eğitim ve araştırma amaçlarıyla kullanabilir, inceleyebilir ve değiştirebilirsiniz. Ticari kullanım (satış ya da ücretli ürün, kurs veya hizmetlerde kullanım) yazılı iznimiz olmadan yasaktır. İzin için [praxtify.com](https://praxtify.com) üzerinden bize ulaşın.
+
+Bu repodaki **proje kodu** ([`al_birak.ino`](al_birak/al_birak.ino) ve [`simulasyon/`](simulasyon)) [PolyForm Noncommercial 1.0.0 lisansı](LICENSE)
 ile yayımlanır. Üçüncü taraf parçalar kendi lisanslarıyla gelir:
 
 | Bileşen | Kaynak | Lisans | Repoda |
@@ -581,7 +585,7 @@ umgerechnet und über **ein einziges Kabel** an alle sechs Servos gesendet. Kein
 [![Arduino](https://img.shields.io/badge/Arduino-UNO%20R4%20WiFi-00878F?logo=arduino&logoColor=white)](https://docs.arduino.cc/hardware/uno-r4-wifi/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![MuJoCo](https://img.shields.io/badge/MuJoCo-3.x-1E88E5)](https://mujoco.org/)
-[![Lizenz: MIT](https://img.shields.io/badge/Lizenz-MIT-green.svg)](LICENSE)
+[![Lizenz: PolyForm Noncommercial](https://img.shields.io/badge/Lizenz-PolyForm%20Noncommercial-orange.svg)](LICENSE)
 [![YouTube](https://img.shields.io/badge/YouTube-@praxtify-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@praxtify)
 
 </div>
@@ -717,7 +721,7 @@ Wenn du die Tabelle in der `.ino` änderst, ändert sich auch die Simulation: So
 │   └── mujoco_menagerie/robotstudio_so101/ # SO101-Robotermodell (MuJoCo Menagerie, Apache 2.0)
 ├── docs/                                   # Bilder für die README
 ├── requirements.txt                        # mujoco, numpy (nur für die Simulation)
-└── LICENSE                                 # MIT (Projektcode)
+└── LICENSE                                 # PolyForm Noncommercial (Projektcode)
 ```
 
 ## So funktioniert es
@@ -799,7 +803,9 @@ landet **1,8 mm** neben der Zielmitte.
 
 ## Quellen und Lizenzen
 
-Der **Projektcode** in diesem Repo ([`al_birak.ino`](al_birak/al_birak.ino) und [`simulasyon/`](simulasyon)) steht unter der [MIT-Lizenz](LICENSE).
+> **Nur nichtkommerzielle Nutzung.** Sie dürfen dieses Projekt für private Zwecke, Bildung und Forschung nutzen, untersuchen und verändern. Kommerzielle Nutzung (Verkauf oder Einsatz in kostenpflichtigen Produkten, Kursen oder Dienstleistungen) ist ohne unsere schriftliche Genehmigung nicht gestattet. Kontaktieren Sie uns über [praxtify.com](https://praxtify.com).
+
+Der **Projektcode** in diesem Repo ([`al_birak.ino`](al_birak/al_birak.ino) und [`simulasyon/`](simulasyon)) steht unter der [PolyForm-Noncommercial-1.0.0-Lizenz](LICENSE).
 Teile von Drittanbietern haben ihre eigenen Lizenzen:
 
 | Komponente | Quelle | Lizenz | Im Repo |
