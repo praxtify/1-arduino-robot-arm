@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="docs/kapak.jpg" alt="Bu kolu Arduino yönetiyor — Praxtify" width="100%">
+<a href="https://youtu.be/TZLSkyie0NY"><img src="docs/kapak.jpg" alt="Bu kolu Arduino yönetiyor — Praxtify · watch the video on YouTube" width="100%"></a>
 
 ### 🇬🇧 [English](#en) &nbsp;·&nbsp; 🇹🇷 [Türkçe](#tr) &nbsp;·&nbsp; 🇩🇪 [Deutsch](#de)
 
@@ -18,7 +18,7 @@
 
 # Robot Arm with Arduino: Pick-and-Place · UNO R4 WiFi + SO101
 
-[![Video tutorial: coming soon](https://img.shields.io/badge/Video_Tutorial-Coming_Soon-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@praxtify)
+[![Watch the video tutorial on YouTube](https://img.shields.io/badge/Video_Tutorial-Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/TZLSkyie0NY)
 [![Website: praxtify.com](https://img.shields.io/badge/praxtify.com-Website-111111?style=for-the-badge)](https://praxtify.com)
 
 **How does an Arduino drive this arm?** This repo contains the Arduino code with which the SO101 robot arm, built from six
@@ -62,7 +62,7 @@ converted to servo steps and sent to all six servos over **a single cable**. No 
 | Feedback | Asking each servo "are you still moving?" with `ReadMove` and waiting |
 | Hardware UART | `Serial1` (D0/D1) on the UNO R4, a 1 Mbit/s line independent of USB |
 
-The whole Arduino code is **a single file, 41 lines**: [`al_birak/al_birak.ino`](al_birak/al_birak.ino). It is identical to the code explained in the video.
+The whole Arduino code is **a single file, 41 lines**: [`al_birak/al_birak.ino`](al_birak/al_birak.ino). It is identical to the code explained in the [video](https://youtu.be/TZLSkyie0NY) (audio in English, Turkish and German).
 
 ## Hardware
 
@@ -297,7 +297,7 @@ For questions, bugs or suggestions, open an [issue](../../issues). If you like t
 
 # Arduino ile Robot Kol: Al-Bırak · UNO R4 WiFi + SO101
 
-[![Video anlatım: yakında](https://img.shields.io/badge/Video_Anlat%C4%B1m-Yak%C4%B1nda-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@praxtify)
+[![Video anlatımı YouTube'da izle](https://img.shields.io/badge/Video_Anlat%C4%B1m-YouTube%27da_%C4%B0zle-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/TZLSkyie0NY)
 [![Web sitesi: praxtify.com](https://img.shields.io/badge/praxtify.com-Web_Sitesi-111111?style=for-the-badge)](https://praxtify.com)
 
 **Bu kolu bir Arduino nasıl yönetiyor?** Bu repo, altı STS3215 seri bus servolu SO101 robot kolunun bir kutuyu alıp
@@ -341,7 +341,7 @@ hedefe bıraktığı Arduino kodunu içerir. Duruşlar MuJoCo'da ters kinematikl
 | Geri bildirim | `ReadMove` ile her servoya "hâlâ hareket ediyor musun?" diye sorup bekleme |
 | Donanım UART | UNO R4'te `Serial1` (D0/D1), USB'den bağımsız 1 Mbit/sn hat |
 
-Arduino kodunun tamamı **tek dosya, 41 satır**: [`al_birak/al_birak.ino`](al_birak/al_birak.ino). Videoda anlatılan kodla birebir aynıdır.
+Arduino kodunun tamamı **tek dosya, 41 satır**: [`al_birak/al_birak.ino`](al_birak/al_birak.ino). [Videoda](https://youtu.be/TZLSkyie0NY) anlatılan kodla birebir aynıdır (Türkçe, İngilizce ve Almanca ses).
 
 ## Donanım
 
@@ -575,7 +575,7 @@ Soru, hata ya da öneri için bir [issue](../../issues) aç. Projeyi beğendiyse
 
 # Roboterarm mit Arduino: Pick-and-Place · UNO R4 WiFi + SO101
 
-[![Video-Tutorial: demnächst](https://img.shields.io/badge/Video--Tutorial-Demn%C3%A4chst-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@praxtify)
+[![Video-Tutorial auf YouTube ansehen](https://img.shields.io/badge/Video--Tutorial-Auf_YouTube_ansehen-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/TZLSkyie0NY)
 [![Webseite: praxtify.com](https://img.shields.io/badge/praxtify.com-Webseite-111111?style=for-the-badge)](https://praxtify.com)
 
 **Wie steuert ein Arduino diesen Arm?** Dieses Repo enthält den Arduino-Code, mit dem der Roboterarm SO101 mit sechs
@@ -619,7 +619,7 @@ umgerechnet und über **ein einziges Kabel** an alle sechs Servos gesendet. Kein
 | Rückmeldung | Mit `ReadMove` jedes Servo fragen „bewegst du dich noch?“ und warten |
 | Hardware-UART | `Serial1` (D0/D1) am UNO R4, eine 1-Mbit/s-Leitung unabhängig von USB |
 
-Der gesamte Arduino-Code ist **eine einzige Datei mit 41 Zeilen**: [`al_birak/al_birak.ino`](al_birak/al_birak.ino). Er ist identisch mit dem Code, der im Video erklärt wird.
+Der gesamte Arduino-Code ist **eine einzige Datei mit 41 Zeilen**: [`al_birak/al_birak.ino`](al_birak/al_birak.ino). Er ist identisch mit dem Code, der im [Video](https://youtu.be/TZLSkyie0NY) erklärt wird (Ton auf Deutsch, Englisch und Türkisch).
 
 ## Bauteile
 
